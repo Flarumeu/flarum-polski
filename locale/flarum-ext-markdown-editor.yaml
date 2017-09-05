@@ -1,12 +1,12 @@
 ganuonglachanh-mdeditor:
   admin:
     help_texts:
-      title: 'Editor'
-      description: 'Select symbols to be available from the editor toolbar.'
+      title: 'Edytuj'
+      description: 'Wybierz symbole, które będą widoczne na pasku edytora.'
     labels:
       preferences:
-        title: 'Preferences'
-        symbols: 'Symbols to be added to the toolbar (in JSON): [{"label":"☎","insert":"☎"},{"label":"❄","insert":"❄"}]'
+        title: 'Preferencje'
+        symbols: 'Symbole, które mają zostać dodane do paska (in JSON): [{"label":"☎","insert":"☎"},{"label":"❄","insert":"❄"}]'
     buttons:
       save: 'Save'
   forum:

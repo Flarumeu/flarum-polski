@@ -1,0 +1,8 @@
+davis-customfooter:
+  admin:
+    settings:
+      title: Własna Stopka - Konfiguracja
+      customtext: Tekst Stopki
+      heightofheader: Wysokość
+      cssofheader: CSS
+      jsofheader: JS

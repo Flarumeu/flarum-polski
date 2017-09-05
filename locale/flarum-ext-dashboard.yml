@@ -1,0 +1,49 @@
+datitisev-dashboard:
+
+  admin:
+
+    ## Translations for new dashboard page
+    dashboard:
+
+      months:
+        january: Styczeń
+        february: Luty
+        march: Marzecz
+        april: Kwiecień
+        may: Maj
+        june: Czerwiec
+        july: Lipiec
+        august: Sierpień
+        september: Wrzesień
+        october: Październik
+        november: Listopad
+        december: Grudzień
+
+      graph:
+        users: Użytkowników
+        discussions: Tematów
+        posts: Postów
+
+      flarum_version: "Flarum {version}"
+      php_version: "PHP {version}"
+
+      extensionUpdates:
+        checkUpdates_button: Sprawdź aktualizacje rozszerzeń
+        checking: "Sprawdzanie..."
+        updatesAvaliable: "{number} Dostępnych Aktualizacji"
+        noUpdates: "Brak!"
+        error: "Błąd!"
+        addClientIdAndSecret:  => datitisev-dashboard.admin.settings.github_description
+
+
+    ## Settings for the extension
+    settings:
+      title: Ustawienia Panelu
+
+      github_heading: Github
+      github_description: "Client ID i Client Secret z app Github jest potrzebne, jeśli nie chcesz przekroczyć limitu API.<br\/\><br\/\> Stwórz aplikację na Github Developers (https://github.com/settings/developers)<br\/\> i wpisz poniżej ID i Secret"
+      clientId_label: Client Id
+      clientSecret_label: Client Secret
+
+      graph_heading: Panel
+      interval_label: Jak często pobierać ma nowe dane (tematy, użytkownicy...) w minutach. Standardowo to 10min
