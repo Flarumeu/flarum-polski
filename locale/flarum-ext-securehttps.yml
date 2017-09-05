@@ -1,8 +1,0 @@
-davis-securehttps:
-  admin:
-    settings:
-      title: Konfiguracja
-      replace: Proxy obrazków przez https
-  forum:
-    removed: "Obraz usunięto ze względu na brak obsługi protokołu https."
-    show: Pokaż
