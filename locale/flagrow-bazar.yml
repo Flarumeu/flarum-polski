@@ -63,8 +63,8 @@ flagrow-bazaar:
                     details: Szczegóły
                 attribute:
                     created_at: Stworzony
-                    started_at: Rozpoczęty
-                    finished_at: Zakończony
+                    started_at: Start
+                    finished_at: Koniec
                 status:
                     success: Sukces
                     exception: Nieznany błąd
