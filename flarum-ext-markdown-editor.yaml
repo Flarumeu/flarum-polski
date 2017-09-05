@@ -1,0 +1,25 @@
+ganuonglachanh-mdeditor:
+  admin:
+    help_texts:
+      title: 'Editor'
+      description: 'Select symbols to be available from the editor toolbar.'
+    labels:
+      preferences:
+        title: 'Preferences'
+        symbols: 'Symbols to be added to the toolbar (in JSON): [{"label":"☎","insert":"☎"},{"label":"❄","insert":"❄"}]'
+    buttons:
+      save: 'Save'
+  forum:
+    toolbar:
+      bold: 'Pogrubienie'
+      italic: 'Pochylenie'
+      underline: 'Podkreślenie'
+      strikethrough: 'Przekreślenie'
+      heading: 'Nagłówek'
+      quote: 'Cytat'
+      code: 'Kod'
+      unordered_list: 'Lista'
+      ordered_list: 'Lista Numeryczna'
+      link: 'Utwórz Link'
+      image: 'Wrzuć Obrazek'
+      guide: 'Markdown Guide'
