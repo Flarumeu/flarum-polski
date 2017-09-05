@@ -6,6 +6,7 @@
   - flarum-ext-securehttps
   - flagrow-upload
   - flagrow-ads
+  - flagrow-bazar
 		
 - 1.0.1
   - Poprawki.
