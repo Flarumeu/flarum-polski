@@ -7,6 +7,7 @@
   - flagrow-upload
   - flagrow-ads
   - flagrow-bazar
+  - flarum-ext-filter
 		
 - 1.0.1
   - Poprawki.
