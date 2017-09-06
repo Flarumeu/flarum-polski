@@ -15,11 +15,6 @@
         }
 	],
 	
-	"support": {
-        "issues": "https://github.com/flarumeu/flarum-polski/issues",
-        "source": "https://github.com/flarumeu/flarum-polski"
-				}
-	
     "extra": {
         "flarum-extension": {
             "title": "Jezyk Polski",
