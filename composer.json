@@ -1,0 +1,33 @@
+{
+    "name": "flarumeu/flarum-polski",
+    "type": "flarum-extension",
+    "description": "Polska paczka jezykowa.",
+    "homepage": "https://github.com/flarumeu/flarum-polski",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.7"
+    },
+	
+	"authors": [
+        {
+            "name": "Leon"
+        }
+	],
+	
+    "extra": {
+        "flarum-extension": {
+            "title": "Jezyk Polski",
+            "icon": {
+                "image": "icon.png",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "pl",
+            "title": "Polski"
+		}
+    }
+}
