@@ -9,12 +9,6 @@
         "flarum/core": "^0.1.0-beta.7"
     },
 	
-	"authors": [
-        {
-            "name": "Leon"
-        }
-	],
-	
     "extra": {
         "flarum-extension": {
             "title": "Jezyk Polski",
