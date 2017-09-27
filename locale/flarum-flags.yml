@@ -22,7 +22,7 @@ flarum-flags:
 
     # These translations are used by the Flag Post modal dialog.
     flag_post:
-      confirmation_message: Dziękujemy za zgłoszenie tego posta. Zobaczymy, czy coś z nim nie tak.
+      confirmation_message: Dziękujemy za zgłoszenie tego posta. Zobaczymy, czy coś jest z nim nie tak.
       dismiss_button: => core.ref.okay
       reason_inappropriate_label: Niewłaściwy
       reason_inappropriate_text: "Ten post jest agresywny, obraźliwy, lub narusza nasz <a>regulamin społeczności</a>."
@@ -57,5 +57,5 @@ flarum-flags:
 
   # Translations in this namespace are referenced by two or more unique keys.
   ref:
-    flag_post: Zgłoszony post
-    flagged_posts: Zgłoszone posty
+    flag_post: Raportuj zły post
+    flagged_posts: Wyślij Raport
